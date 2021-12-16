@@ -1,0 +1,9 @@
+Get To The Moon:
+1. Visi adalah langkah produktif pertama menuju tujuan(disini saya memikirkan ingin pergi ke bulan mengunakan-> Rocket)
+2. Dari visi tersebut saya membuat roket untuk sampai ke bulan maka terlebih dahulu melakukan rapat dengan tim engineering dan menyiapkan requirement utk membangun sebuah rocket.
+3. Setelah Bagian Rocket terbentuk Lakukan Testing untuk Melihat Apakah rocket yang kita build telah sempurna atau layak digunakan biasa testing pertama akan mendapatkan kekurangan dari segi model/bahan dan ketinggian yang dicapai pada saat rocket di testing.
+4. Jika Ada Cacat maka lakukan perbaikan terhadap pembangunan rocket. Dan Apabila Rocket sudah tidak ada cacat maka rocket dapat di gunakan
+5. Rocket siap digunakan untuk pergi ke bulan dan sesampainya di bulan lakukan aktivitas yang hendak dilakukan.
+
+
+
